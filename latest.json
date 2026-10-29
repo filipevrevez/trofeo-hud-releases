@@ -1,1 +1,10 @@
-{}
+{
+  "version": "0.1.2",
+  "pub_date": "2026-10-29T08:33:37Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTkhrbS8vdTBzaU9JR08rRjBDYngwTUY1RUM0N3JQdUtoQWRlbzhVWnZEUWJ2b3JoRTZjREt1UEYrRVc1QndDbG9Yd2Y5TVRnZEMyY0JmWXQ1UVBhYmRCSDQ0bWU1TWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjYyODExCWZpbGU6VHJvZmVvLUhVRC0wLjEuMi5hcHAudGFyLmd6CkdlL0lVcDJmNGFpWHo4NCtMZlQ5WWIxdlBuTEtrSGJkUkZHaVpmVDN6aHNXWE1kMmpObXhGak1ia0ZTWWJ3bVo0dEl2cWlqMTNVNHJPKzJEQlM2OERRPT0K",
+      "url": "https://github.com/filipevrevez/trofeo-hud-releases/releases/download/v0.1.2/Trofeo-HUD-0.1.2.app.tar.gz"
+    }
+  }
+}
